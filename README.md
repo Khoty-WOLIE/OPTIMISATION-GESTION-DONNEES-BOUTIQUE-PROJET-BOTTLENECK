@@ -3,6 +3,10 @@ Optimisez la gestion des données d'une boutique avec R ou Python
 
 # Analyse des Ventes et des Stocks - Projet BottleNeck
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DA_projet5.PNG)
+
 ## Contexte
 
 Aujourd'hui, je débute ma mission en tant que Data Analyst freelance chez **BottleNeck**, un marchand de vin prestigieux. Mon manager, **Laurent**, m'a présenté l'équipe du service Numérique dans une ambiance conviviale, et m'a expliqué les enjeux de ma première mission.
