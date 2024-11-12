@@ -20,6 +20,7 @@ La gestion des stocks et l’analyse des ventes en ligne sont actuellement limit
 ## Aperçu de l'entreprise
 
 ![Aperçu du site web](images/DA_projet5.PNG)
+
 ## Étapes du Projet
 
 ### Étape 1 : Rapprochement des Bases de Données
