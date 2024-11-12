@@ -3,6 +3,10 @@ Optimisez la gestion des données d'une boutique avec R ou Python
 
 # Analyse des Ventes et des Stocks - Projet BottleNeck
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DA_projet5.PNG)
+
 ## Contexte
 
 Aujourd'hui, je débute ma mission en tant que Data Analyst freelance chez **BottleNeck**, un marchand de vin prestigieux. Mon manager, **Laurent**, m'a présenté l'équipe du service Numérique dans une ambiance conviviale, et m'a expliqué les enjeux de ma première mission.
@@ -16,10 +20,6 @@ La gestion des stocks et l’analyse des ventes en ligne sont actuellement limit
 2. **Calcul du Chiffre d'Affaires par Produit** : Une fois le rapprochement effectué, calculer le chiffre d'affaires par produit, ainsi que le total des ventes réalisées en ligne.
 
 3. **Détection des Valeurs Aberrantes** : Analyser les prix des produits pour identifier les éventuelles erreurs de saisie (valeurs aberrantes) et les représenter graphiquement pour les mettre en évidence.
-
-## Aperçu de l'entreprise
-
-![Aperçu du site web](images/DA_projet5.PNG)
 
 ## Étapes du Projet
 
