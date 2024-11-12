@@ -17,6 +17,10 @@ La gestion des stocks et l’analyse des ventes en ligne sont actuellement limit
 
 3. **Détection des Valeurs Aberrantes** : Analyser les prix des produits pour identifier les éventuelles erreurs de saisie (valeurs aberrantes) et les représenter graphiquement pour les mettre en évidence.
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DA_projet5.PNG)
+
 ## Étapes du Projet
 
 ### Étape 1 : Rapprochement des Bases de Données
